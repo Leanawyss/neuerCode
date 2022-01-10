@@ -14,6 +14,6 @@
 - zeigt an ob Prüfung bestanden oder nicht
 
 **Reflexion**
-1. Ich habe Python kennegelernt und ein bisschen programmierne gelernt. 
+1. Ich habe Python kennegelernt und ein bisschen programmieren gelernt. 
 2. Zudem weiss ich nun, dass es nicht immer nur eine Lösung zu einem Programm gibt.
 3. Ich kann nun eigenständig etwas Kleines programmieren.
